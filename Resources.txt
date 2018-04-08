@@ -1,1 +1,5 @@
 https://www.quora.com/How-do-I-learn-deep-learning-in-2-months
+http://blog.aylien.com/12-of-the-best-free-natural-language-processing-and-machine-learning-educational-resources/
+https://pythonprogramming.net/machine-learning-tutorials/
+
+Stanford : https://www.youtube.com/watch?time_continue=568&v=OQQ-W_63UgQ
